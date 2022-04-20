@@ -29,7 +29,7 @@ export default {
     return {
       links: [
         {
-          url: "downloads/BÁI_Szülői tájékoztató_2022.pdf",
+          url: "/downloads/BÁI_Szülői tájékoztató_2022.pdf",
           desc: "Beiratkozás",
         },
         {
@@ -41,11 +41,11 @@ export default {
           desc: "Közzétételi lista a kir.hu oldalon",
         },
         {
-          url: "downloads/szmsz.pdf",
+          url: "/downloads/szmsz.pdf",
           desc: "Szervezeti és működési szabályzat",
         },
-        { url: "downloads/Házirend.pdf", desc: "Házirend" },
-        { url: "downloads/Pedagógiai program.pdf", desc: "Pedagógiai program" },
+        { url: "/downloads/Házirend.pdf", desc: "Házirend" },
+        { url: "/downloads/Pedagógiai program.pdf", desc: "Pedagógiai program" },
       ],
     };
   },
